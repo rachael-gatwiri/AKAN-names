@@ -41,3 +41,4 @@ Enter century of birth eg 22 for 2003, Input Example 22 Output example 22
     * If you need more clarifcation or you have any questions, please email me at
      [rachaelmuga1@gmail.com]
 ### license
+Copyright (c) 2021 Rachael
