@@ -35,9 +35,9 @@ Enter century of birth eg 22 for 2003, Input Example 22 Output example 22
     Valid value is output. Output example: *You were born on Sunday and Your akan name is Kwasi! &nbsp If your gender is Male.
     Valid value is output. Output example: *You were born on Sunday and Your akan name is Akosua! &nbsp If your gender is female.
 
-    ## KNOWN BUGS
+    ## Known Bugs
     * Not all outputs are accurate as expected!!
-    ## CONTACT INFORMATION
+    ## Contact Information
     * If you need more clarifcation or you have any questions, please email me
      <a href="rachaelmuga1@gmail.com"></a>
 ### license
