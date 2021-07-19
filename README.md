@@ -18,12 +18,10 @@ This project is a web application that takes a user's birthday and calculates th
 * code
 ## BDD
 Enter century of birth eg 22 for 2003, Input Example 22 Output example 22
-    * Enter year of Birth eg 03 for 2003 Input Example 03 Output Example 03
-
-    * Enter month of birth eg 1 for january Input example 1 Output example 1
-
-    * Enter Date of the month you were born in eg 22 input example 22 output example 22
-
+   
+   * Enter year of Birth eg 03 for 2003 Input Example 03 Output Example 03
+ * Enter month of birth eg 1 for january Input example 1 Output example 1
+ * Enter Date of the month you were born in eg 22 input example 22 output example 22
     * Select gender Input example female output female
     
     Submit. Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid deatils.
