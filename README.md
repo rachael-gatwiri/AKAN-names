@@ -1,22 +1,22 @@
-#AKAN-NAMES
-##AUTHOR
+# AKAN-NAMES
+## AUTHOR
 RACHAEL GATWIRI
-##DESCRIPTION
+## DESCRIPTION
 This project is a web application that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name.
 <img src="AKAN.png">
-##LIVE PAGE
+## LIVE PAGE
 <a href="https://github.com/rachael-gatwiri/rachael-gatwiri.git"></a>
-##TECHNOLOGIES USED
+## TECHNOLOGIES USED
 *HTML
 *CSS
 *Boostrap
 *Javascript
-##INSTALLATION SETUP
+## INSTALLATION SETUP
 *Open Terminal
 *Git Hub pages
 *cd Akan images
 *code
-##BDD
+## BDD
 Enter century of birth eg 22 for 2003, Input Example 22 Output example 22
     *Enter year of Birth eg 03 for 2003 Input Example 03 Output Example 03
 
